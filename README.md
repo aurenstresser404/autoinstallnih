@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/zerodevxc/Autoinstall-/refs/heads/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/aurenstresser404/autoinstallnih/refs/heads/main/install.sh)
 ```
 
 ## Fitur Tools :
@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/zerodevxc/Autoinstall-/refs/hea
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : zero)
+ (Kode Token : cormen)
 
 ## System Support :
 
@@ -32,5 +32,4 @@ bash <(curl -s https://raw.githubusercontent.com/zerodevxc/Autoinstall-/refs/hea
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ ZeroDev ]
-- Created by [ FOXSTORE ](https://github.com/Foxstoree)
+- Created by [ CORMENT ]
