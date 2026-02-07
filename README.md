@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/aurenstresser404/autoinstallnih/refs/heads/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/aurenstresser404/autoinstallnih/refs/heads/main/bangkai.sh)
 ```
 
 ## Fitur Tools :
